@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           XxxZooTitleFix
-// @version        1.0.0.20221122
+// @version        1.0.1.20221122
 // @namespace      https://github.com/han844017104/TamperMonkeyPlugins
 // @description    
 // @author         MrHan
