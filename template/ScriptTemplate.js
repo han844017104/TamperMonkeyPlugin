@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name           ScriptTemplate
 // @version        1.0.0.yyyyMmdd
-// @namespace      
+// @namespace      https://github.com/han844017104/TamperMonkeyPlugins
 // @description    
 // @author         MrHan
 // @icon           
+// @updateURL      
 // @match          *://*.mrhan.com/example/*/*.html*
 // @run-at         document-end
 // @grant          GM_addStyle

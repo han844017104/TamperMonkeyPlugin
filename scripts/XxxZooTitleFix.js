@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name           XxxZooTitleFix
 // @version        1.0.0.20221122
-// @namespace      
+// @namespace      https://github.com/han844017104/TamperMonkeyPlugins
 // @description    
 // @author         MrHan
 // @icon           
+// @updateURL      https://github.com/han844017104/TamperMonkeyPlugins/blob/main/scripts/XxxZooTitleFix.js
 // @match          https://xxxsexzoo.com/*
 // @run-at         document-end
 // @grant          GM_addStyle
