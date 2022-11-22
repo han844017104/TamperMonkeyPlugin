@@ -5,7 +5,6 @@
 // @description    
 // @author         MrHan
 // @icon           
-// @updateURL      
 // @match          *://*.mrhan.com/example/*/*.html*
 // @run-at         document-end
 // @grant          GM_addStyle

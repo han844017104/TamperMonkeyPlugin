@@ -2,10 +2,9 @@
 // @name           XxxZooTitleFix
 // @version        1.0.1.20221122
 // @namespace      https://github.com/han844017104/TamperMonkeyPlugins
-// @description    
+// @description    优化xxxzoo视频列表的显示,使视频标题可以直接展示在预览图片上,省去放置鼠标查看名称的繁琐
 // @author         MrHan
 // @icon           
-// @updateURL      https://github.com/han844017104/TamperMonkeyPlugins/blob/main/scripts/XxxZooTitleFix.js
 // @match          https://xxxsexzoo.com/*
 // @run-at         document-end
 // @grant          GM_addStyle
